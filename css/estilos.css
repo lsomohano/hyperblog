@@ -11,7 +11,7 @@ body{
 #container
 {
 	width: 70%;
-	padding: 0;
+	padding: 0px;
 	text-align: left;
 	border: 1px solid #000;
 	margin: 0 auto;
@@ -35,16 +35,6 @@ body{
 	padding: 0 0 0 1em;
 	font-size: 0.5em;
 }
-#container
-{
-	background: white;
-	width: 70%;
-	padding: 1em;
-	text-align: left;
-	border: 1px solid #000;
-	margin: 0 auto;
-}
-
 #container h1
 {
 	font-size: 20px;
